@@ -3,4 +3,4 @@ Analyzed hotel booking data to uncover trends in cancellations, guest behavior, 
 
 ## 🎥 Project Intro Video
 
-[![Watch Intro](media/thumbnail.png)]([https://drive.google.com/file/d/1aBcD3fGhIjKlmNOPQRstuVwXyz/preview](https://drive.google.com/file/d/1aPECFQcJaevPZUlQ84T5kv3qRmAq8_B8/view?usp=sharing))
+[![Watch Intro]([https://drive.google.com/file/d/1aBcD3fGhIjKlmNOPQRstuVwXyz/preview](https://drive.google.com/file/d/1aPECFQcJaevPZUlQ84T5kv3qRmAq8_B8/view?usp=sharing))
